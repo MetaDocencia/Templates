@@ -16,5 +16,9 @@ El espacio virtual debe contemplar una serie de reglas de convivencia como el re
 
 El material que generamos tiene una licencia abierta que permite que nuestros materiales se reusen y sean aprovechados y mejorados por otras personas protegiendo nuestro trabajo al mismo tiempo.  Existen diversos tipos de licencia Creative Commons que permiten compartir tus producciones, te dejamos [aqui](https://github.com/MetaDocencia/docs/blob/master/LICENCIA.md) el modelo de la que usamos nosotros.
 
+## Plantilla para invitación al curso
 
+Este documento continene un texto modelo para la invitación de los alumnos al curso: https://docs.google.com/document/d/195Bhp1D8PSZ-0x7yy7110WrC7hVnhed39tROGqUDYTA/edit?usp=sharing
+
+## Plantilla de documento compartido en clase
 
