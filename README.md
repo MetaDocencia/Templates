@@ -21,4 +21,4 @@ El material que generamos tiene una licencia abierta que permite que nuestros ma
 Este documento continene un texto modelo para la invitación de los alumnos al curso: https://docs.google.com/document/d/195Bhp1D8PSZ-0x7yy7110WrC7hVnhed39tROGqUDYTA/edit?usp=sharing
 
 ## Plantilla de documento compartido en clase
-
+Este documento continene una estructura modelo para generar un documento compartido para trabajar en clase: https://docs.google.com/document/d/1sPvRezzh3y1kJh171mjhbe5krmIi_QNoOs1LPOBp2bE/edit?usp=sharing
